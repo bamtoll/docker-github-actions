@@ -11,12 +11,14 @@ Node.js Express 웹 애플리케이션을 Docker로 컨테이너화하고, GitHu
 
 ## 📁 프로젝트 구조
 
+```
 ├── app.js
 ├── package.json
 ├── Dockerfile
 └── .github/
-└── workflows/
-└── docker-build.yml
+    └── workflows/
+        └── docker-build.yml
+```
 
 ## 🚀 CI/CD 파이프라인
 
