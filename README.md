@@ -35,4 +35,4 @@ https://bamtoll-docker-app-e3anf5a0h2ckfqbs.koreacentral-01.azurewebsites.net
 
 ## 📸 실행 결과
 
-![서비스 화면](./docs/service.png)
+![서비스 화면](./actions-success.png)
